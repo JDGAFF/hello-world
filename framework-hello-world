@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>First HTML Document</title>
+    </head>
+    <body>
+    <hl>Testing My Text Editor</hl>
+    <p>This is my first HTML document.</p>
+    </body>
+</html>
